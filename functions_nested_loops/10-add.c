@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * Add - Entry point
+ * add - Entry point
  *
  * @nr1: first nr
  * @nr2: second nr
