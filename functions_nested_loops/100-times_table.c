@@ -18,7 +18,7 @@ void print_times_table(int n)
 			{
 				exp = (n1 * n2);
 				if (n2 == 0)
-					_putchar(exp + '0');
+					_putchar('0');
 				else if (exp < 10)
 				{
 					_putchar(',');
