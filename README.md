@@ -14,7 +14,7 @@ It is essential to have a background in computer memory mechanisms because it is
  
 **2.[Variables, **if**, **else** and **while** loop](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/variables_if_else_while/README.md)**
 
-**3.[Functions and nested loops](https://github.com/Tizihoxha/holbertonschool-low_level_programming/tree/main/functions_nested_loops)**
+**3.[Functions and nested loops](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/functions_nested_loops/README.md)**
 
 **4.[Debugging](https://github.com/Tizihoxha/holbertonschool-low_level_programming/tree/main/debugging)**
 
