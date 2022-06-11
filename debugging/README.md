@@ -7,6 +7,8 @@
 - **[Debugging](https://www.techtarget.com/searchsoftwarequality/definition/debugging#:~:text=Debugging%2C%20in%20computer%20programming%20and,and%20make%20sure%20it%20works.)**
 - **[Rubber 🦆 Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)** 
 
+<img align="left" width="350" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--CqUms0Qw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hipib7yx63390nsxb5ir.png">
+
 #### Simplifying the code:
 
 Tasks | Code description
