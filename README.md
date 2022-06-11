@@ -10,7 +10,7 @@ It is essential to have a background in computer memory mechanisms because it is
 
 ## Repository contains the following projects:
 
- **1.[Hello world](https://github.com/Tizihoxha/holbertonschool-low_level_programming/tree/main/hello_world)**
+ **1.[Hello world](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/hello_world/README.md)**
  
 **2.[Variables, **if**, **else** and **while** loop](https://github.com/Tizihoxha/holbertonschool-low_level_programming/tree/main/variables_if_else_while)**
 
