@@ -1,4 +1,4 @@
-# C - Hello, World
+# C - Hello :raised_hand_with_fingers_splayed:	, World :earth_americas:	
 
 ## Important C concepts
 **This is the first introduction to C programming language.**
