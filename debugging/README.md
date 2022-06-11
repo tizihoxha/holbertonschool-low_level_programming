@@ -5,7 +5,7 @@
 ### Further reads that help understanding the process:
 
 - **[Debugging](https://www.techtarget.com/searchsoftwarequality/definition/debugging#:~:text=Debugging%2C%20in%20computer%20programming%20and,and%20make%20sure%20it%20works.)**
-- **[Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) :rubber_duck:**
+- **[Rubber 🦆 Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)** 
 
 #### Simplifying the code:
 
