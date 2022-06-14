@@ -2,7 +2,6 @@
 /**
  * print_triangle - Entry point
  * @size: int
- * 
  * Return: size is 0 or less, the function should print only a new line
 */
 void print_triangle(int size)
@@ -13,9 +12,9 @@ void print_triangle(int size)
 	{
 		_putchar('\n');
 	}
-	for (row = 0; row <= size ; row++)
+	for (row = 1; row <= size ; row++)
 	{
-		for (col = 0; col <= size ; col++)
+		for (col = 1; col <= size ; col++)
 		{
 			if (row <= size - col)
 				_putchar(' ');
