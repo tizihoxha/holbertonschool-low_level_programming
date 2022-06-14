@@ -2,7 +2,7 @@
 /**
  * print_triangle - Entry point
  * @size: int
- * Return: size is 0 or less, the function should print only a new line
+ * Return: size is 0 or less, the function should print triangle
 */
 void print_triangle(int size)
 {
