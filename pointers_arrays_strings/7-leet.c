@@ -2,7 +2,6 @@
 /**
  * leet - Entry point
  * @str: string
- * @n: int
  * Return: str
  */
 char *leet(char *str)
