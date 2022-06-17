@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - Entry point
+ * _memcpy - Entry point
  * @src: source
  * @dest: destination
  * @n: unsigned int
