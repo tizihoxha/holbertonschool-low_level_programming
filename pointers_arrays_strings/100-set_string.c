@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_chessboard - Entry point
+ * set_string - Entry point
  * @s: pointer to a char
  * @to: char
  * Return: void
