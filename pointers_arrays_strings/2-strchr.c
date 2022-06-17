@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memcpy - Entry point
+ * _strchr - Entry point
  * @c: character
  * @s: string
  * Return: s + i , null
@@ -13,8 +13,8 @@ char *_strchr(char *s, char c)
 	{
 		if (s[i] == c)
 			return (s + i);
-		if (s[i] == c)
-			return (s + i);
 	}
+	if (s[i] == c)
+		return (s + i);
 	return ('\0');
 }
