@@ -1,14 +1,14 @@
 # **Pointers, arrays and strings**
 
-## - [**Pointers**](https://www.programiz.com/c-programming/c-pointers)  
+## -[**Pointers**](https://www.programiz.com/c-programming/c-pointers)  
   
 A pointer * is **a variable that stores the memory address of another variable as its value.** A pointer variable points to a data type (like int ) of the same type, and is created with the * operator.
 
-## - [**Arrays**](https://www.programiz.com/c-programming/c-arrays)
+## -[**Arrays**](https://www.programiz.com/c-programming/c-arrays)
 
 Arrays a kind of data structure that can store are **a fixed-size sequential collection of elements of the same type.** An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
 
-## - [**Strings**](https://www.programiz.com/c-programming/c-strings)
+## -[**Strings**](https://www.programiz.com/c-programming/c-strings)
 
 Strings **are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’.**
 ### Simplifying the code:
