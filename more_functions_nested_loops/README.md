@@ -1,7 +1,7 @@
-# ***More functions nested loops*** :octocat:
+# ***More functions nested loops*** 
 
 
-### Simplifying the code:
+ :octocat:     ### Simplifying the code:
 Tasks | Code description
 :---------- | :-----------
 [0-isupper.c](https://github.com/Tizihoxha/holbertonschool-low_level_programming/blob/main/more_functions_nested_loops/0-isupper.c) | Function that checks for uppercase letters.
