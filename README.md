@@ -11,7 +11,7 @@ It is essential to have a background in computer memory mechanisms because it is
 
 <img align="left" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
 
-**[1. 📍Hello world :raised_hand_with_fingers_splayed::earth_americas:	](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/hello_world/README.md)**
+**[📍 Hello world :raised_hand_with_fingers_splayed::earth_americas:	](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/hello_world/README.md)**
  
 **[2. 📍Variables, **if**, **else** and **while** loop](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/variables_if_else_while/README.md)**
 
