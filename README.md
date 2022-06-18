@@ -8,9 +8,7 @@ It is essential to have a background in computer memory mechanisms because it is
 
 
 
-<img align="right" width="300" height="250" src="https://i.imgur.com/cdYTRZi.jpeg">
-
-
+<img align="left" width="300" height="250" src="https://www.edureka.co/blog/wp-content/uploads/2019/08/C-Programming-Tutorial-Features-of-C-Edureka.png">
 
 ## Repository contains the following projects:
 
