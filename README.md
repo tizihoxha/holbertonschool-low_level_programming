@@ -20,4 +20,4 @@ It is essential to have a background in computer memory mechanisms because it is
 
 **[5. More functions nested loops 	:loop:](https://github.com/tizihoxha/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops#readme)**
 
-**[6.Pointers, arrays and strings](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
+**[6.Pointers, arrays and strings :asterisk:](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
