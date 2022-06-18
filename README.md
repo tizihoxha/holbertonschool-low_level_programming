@@ -1,14 +1,13 @@
 <h1 align="center"><b>Holbertonschool low level programming</b></h1>
 
+<img align="center" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
+
 **C** is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.
 
 It is said that **‘C’ is a god’s programming language.** One can say, ***C is a base for the programming.*** If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’
 
 It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.
 
-
-
-<img align="left" width="300" height="250" src="https://www.edureka.co/blog/wp-content/uploads/2019/08/C-Programming-Tutorial-Features-of-C-Edureka.png">
 
 ## Repository contains the following projects:
 
