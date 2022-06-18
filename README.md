@@ -6,6 +6,8 @@ It is said that **‘C’ is a god’s programming language.** One can say, ***C
 
 It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.
 
+
+
 <img align="right" width="300" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/12/15114057/shutterstock_487518850-1.jpg">
 
 ## Repository contains the following projects:
