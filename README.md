@@ -8,7 +8,7 @@ It is essential to have a background in computer memory mechanisms because it is
 
 
 
-<img align="left" width="300" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/12/15114057/shutterstock_487518850-1.jpg">
+<img align="right-down" width="300" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/12/15114057/shutterstock_487518850-1.jpg">
 
 ## Repository contains the following projects:
 
