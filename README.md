@@ -8,7 +8,7 @@ It is essential to have a background in computer memory mechanisms because it is
 
 
 
-<img align="right" width="300" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/12/15114057/shutterstock_487518850-1.jpg">
+<img align="right" width="300" height="250" src="https://www.globnetsystems.co.in/images/ZwEV83ZODBVuqx9tpExuyXLNm3HhQMbwrVBC7P6Q.jpeg">
 
 
 
