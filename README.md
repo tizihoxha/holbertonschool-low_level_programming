@@ -9,6 +9,8 @@ It is essential to have a background in computer memory mechanisms because it is
 
 ## Repository contains the following projects:
 
+<img align="left" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
+
 **[1. Hello world :raised_hand_with_fingers_splayed::earth_americas:	](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/hello_world/README.md)**
  
 **[2. Variables, **if**, **else** and **while** loop](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/variables_if_else_while/README.md)**
@@ -20,4 +22,4 @@ It is essential to have a background in computer memory mechanisms because it is
 **[5. More functions nested loops 	:loop:](https://github.com/tizihoxha/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops#readme)**
 
 **[6.Pointers, arrays and strings :asterisk:](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
-<img align="right" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
+
