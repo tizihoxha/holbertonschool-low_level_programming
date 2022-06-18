@@ -1,4 +1,4 @@
-:octocat:# ***More functions nested loops***
+# ***More functions nested loops*** :octocat:
 
 
 ### Simplifying the code:
