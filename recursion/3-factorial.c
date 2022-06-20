@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen_recursion - Entry point appends the src string to the dest string
+ * factorial - Entry point appends the src string to the dest string
  * @n: int
  * Return: (n * factorial(n - 1))
  */
