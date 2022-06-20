@@ -16,7 +16,7 @@ int find_prime_number(int n, int i)
 	return (0 + find_prime_number(n, i + 1));
 }
 /**
- * find_prime_number - Entry point
+ * is_prime_number - Entry point
  * @n: int
  * Return: 1, 0
  */
