@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * create_array - Entry point
+ * str_concat - Entry point
  * @s1: pointer
  * @s2: pointer
  * Return: NULL
