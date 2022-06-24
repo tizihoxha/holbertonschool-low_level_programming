@@ -22,9 +22,9 @@ int _strlen_recursion(char *s)
  */
 int check_palindrome(char *s, int i,  int n)
 {
-	if (s[i] == s[n/2])
+	if (s[i] == s[n / 2])
 		return (1);
-	if (s[i] == s[n - i -1])
+	if (s[i] == s[n - i - 1])
 		return (check_palindrome(s, i + 1, n));
 	return (0);
 }
