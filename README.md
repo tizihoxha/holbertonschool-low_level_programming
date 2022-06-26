@@ -27,3 +27,5 @@ It is essential to have a background in computer memory mechanisms because it is
 
 **[:arrow_right: 9. C - malloc, free](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/malloc_free/README.md)**
 
+<img align="right" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
+
