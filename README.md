@@ -20,5 +20,4 @@ It is essential to have a background in computer memory mechanisms because it is
 **[:arrow_right: 5. More functions nested loops](https://github.com/tizihoxha/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops#readme)**
 
 **[:arrow_right: 6. Pointers, arrays and strings](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
-
 **[:arrow right: 7. Recursion](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/recursion/README.md)**
