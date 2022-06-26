@@ -16,7 +16,7 @@ Base condition is needed to stop the recursion otherwise infinite loop will occu
 
 [C - Recusrion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
 
-Simplyfing the code:
+***Simplyfing the code:***
 
 Tasks | Code description
 --------- | -----------
