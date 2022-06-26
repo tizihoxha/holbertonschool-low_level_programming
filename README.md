@@ -21,4 +21,6 @@ It is essential to have a background in computer memory mechanisms because it is
 
 **[:arrow_right: 7. Recursion](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/recursion/README.md)**
 
-**[:arrow_right: 8. C static libraries](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/static_libraries/README.md)**
+**[:arrow_right: 8. C - static libraries](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/static_libraries/README.md)**
+
+**[:arrow_right: 9. C - argc, argv](https://github.com/tizihoxha/holbertonschool-low_level_programming/edit/main/argc_argv/README.md)**
