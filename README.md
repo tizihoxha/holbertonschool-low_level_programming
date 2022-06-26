@@ -1,11 +1,10 @@
 <h1 align="center"><b>Holbertonschool low level programming</b></h1>
+<img align="right" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
 
 **C** is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.
 It is said that **‘C’ is a god’s programming language.** One can say, ***C is a base for the programming.*** If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’
 
 It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.
-
-<img align="right" width="300" height="250" src="https://www.educative.io/v2api/editorpage/5298573028622336/image/6450568544387072">
 
 ## Repository contains the following projects:
 
@@ -20,4 +19,5 @@ It is essential to have a background in computer memory mechanisms because it is
 **[:arrow_right: 5. More functions nested loops](https://github.com/tizihoxha/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops#readme)**
 
 **[:arrow_right: 6. Pointers, arrays and strings](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
+
 **[:arrow right: 7. Recursion](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/recursion/README.md)**
