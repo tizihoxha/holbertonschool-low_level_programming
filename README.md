@@ -5,7 +5,6 @@
 It is said that **‘C’ is a god’s programming language.** One can say, ***C is a base for the programming.*** If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’
 
 It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.
-
 ## Repository contains the following projects:
 
 **[:arrow_right: 1. Hello world :raised_hand_with_fingers_splayed::earth_americas:	](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/hello_world/README.md)**
@@ -20,4 +19,4 @@ It is essential to have a background in computer memory mechanisms because it is
 
 **[:arrow_right: 6. Pointers, arrays and strings](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/pointers_arrays_strings/README.md#pointers-arrays-and-strings)**
 
-**[:arrow right: 7. Recursion](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/recursion/README.md)**
+**[:arrow right: 7. Recusion](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/recursion/README.md)**
