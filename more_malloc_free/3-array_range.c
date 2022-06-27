@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * array_range( - Entry point
+ * array_range - Entry point
  * @min: int
  * @max: int
  * Return: array
