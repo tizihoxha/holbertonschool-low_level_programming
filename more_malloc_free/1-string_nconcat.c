@@ -26,7 +26,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (n > lens2)
 	n =  lens2;
 	lenstr = lens1 + n;
-	str = (malloc(lenstr + 1));
+	str = (malloc(lenstr + 6));
 			if (str == NULL)
 			return (NULL);
 			for (i = 0; i < lenstr; i++)
