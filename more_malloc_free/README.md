@@ -1,4 +1,4 @@
-# C - More malloc, free :free:
+# C - More malloc, :free:
 
 ## *Simplifying the code*
 
