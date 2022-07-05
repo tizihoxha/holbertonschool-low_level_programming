@@ -31,4 +31,6 @@ It is essential to have a background in computer memory mechanisms because it is
 
 **[:arrow_right: 12. C - preprocessor](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/preprocessor/README.md)**
 
-**[:arrow_right: 13. C -Structures, typedef](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/structures_typedef/README.md)**
+**[:arrow_right: 13. C - structures, typedef](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/structures_typedef/README.md)**
+
+**[:arrow_right: 13. C - function pointers ](https://github.com/tizihoxha/holbertonschool-low_level_programming/blob/main/function_pointers/README.md)**
