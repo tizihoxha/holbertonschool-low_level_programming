@@ -2,7 +2,7 @@
 /**
  * print_list - function that prints all the elements of list_t
  * @h: pointer to list_t
- * Return: i 
+ * Return: i
  */
 size_t print_list(const list_t *h)
 {
