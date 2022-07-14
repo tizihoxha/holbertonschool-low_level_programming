@@ -2,6 +2,7 @@
 /**
  * add_nodeint - function that adds a new node to the linked list
  * @head: head of the single linked list
+ * n: number of elements
  * Return: new_node also set as head node
  */
 listint_t *add_nodeint(listint_t **head, const int n)
