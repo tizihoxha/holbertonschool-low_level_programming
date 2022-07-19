@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * read_textfile - function that reads a text file and prints it
- * to the POSIX standard output
+ * create_file - function that creates a file
  * @filename: name of the file pointer
- * @letters: contents of the file
- * Return: if the function fails return 0 else return number of letters
+ * @text_content: contents of the file
+ * Return: if the function fails return -1 else return 1
  */
 int create_file(const char *filename, char *text_content)
 {
