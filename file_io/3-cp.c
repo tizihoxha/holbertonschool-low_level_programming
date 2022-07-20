@@ -27,7 +27,7 @@ int main(int argc, char **argv)
 			dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[1]);
 			exit(98);
 		}
-		w = write(file_to, buffer, 1024);
+		w = write(file_to, buffer, r);
 		if (file_from < 0 || w != r)
 		{
 			dprintf(STDERR_FILENO, "Error: Can't write to %s\n", argv[2]);
