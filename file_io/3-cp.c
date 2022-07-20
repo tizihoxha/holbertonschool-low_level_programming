@@ -22,26 +22,26 @@ int main(int argc, char **argv)
 	while (length == 1024)
 	{
 		length = read(file_from, buffer, 1024);
-		if (length < 0)
+		if (length == -1)
 		{
 			dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[1]);
 			exit(98);
 		}
 		w = write(file_to, buffer, length);
-		if (file_from < 0 || w != length)
+		if (file_from == -1 || w != length)
 		{
 			dprintf(STDERR_FILENO, "Error: Can't write to %s\n", argv[2]);
 			exit(99);
 		}
 	}
 	cls = close(file_from);
-	if (cls < 0)
+	if (cls == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", file_from);
 		exit(100);
 	}
 	cls = close(file_to);
-	if (cls < 0)
+	if (cls == -1)
 	{
 		dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", file_to);
 		exit(100);
